@@ -3,9 +3,6 @@
 </a>
 <br/>
 <a href="https://github.com/curtbushko">
-  <img align="center" width="49%" src="./repositories.svg" />
-</a>
-<a href="https://github.com/curtbushko">
   <img align="center" width="49%" src="./acti_comm.svg" />
 </a>
 
