@@ -8,6 +8,3 @@
 <a href="https://github.com/curtbushko">
   <img align="center" width="49%" src="./github-habits.svg" />
 </a>
-<a href="https://github.com/curtbushko">
-  <img align="center" width="49%" src="./wakatime.svg" />
-</a>
